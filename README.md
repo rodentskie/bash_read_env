@@ -11,4 +11,4 @@ Read environment variable in bash scripting.
 # Usage
 Store to a variable like so:
 * my_var=$(read_var VAR)
-my_var=$(read_var VAR .env.dev)
+* my_var=$(read_var VAR .env.dev)
